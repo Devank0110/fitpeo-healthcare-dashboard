@@ -1,0 +1,48 @@
+.sidebar{
+    width: 15.48%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #f6faff;
+    border-bottom-left-radius: 50px;
+    height: 83vh;
+}
+
+.top{
+    padding-top: 30px;
+}
+
+.general{
+    font-size: 13px;
+    color: #e9edf1;
+}
+
+.elem{
+    padding-top: 21px;
+    color: #aeb6c4;
+    display: flex;
+    align-items: center;
+    /* justify-content: center; */
+    /* height: 16px; */
+}
+
+.icon{
+    /* align-items: center; */
+    padding-right: 14px;
+    padding-bottom: 1.5px;
+}
+
+.active{
+    font-size: 17px;
+    color: #2e326b;
+}
+
+.tools{
+    padding-top: 43px;
+}
+
+.bottom{
+    padding-bottom: 45px;
+    padding-right: 55px;
+}

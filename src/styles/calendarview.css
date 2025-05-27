@@ -1,0 +1,74 @@
+.calendarview{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+}
+
+.calendarheading{
+    display: flex;
+    justify-content: space-between;
+}
+
+.calendarmonth{
+    color: #3735ab;
+}
+    
+
+.calendar{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 10px;
+}
+
+.calendarsection{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
+
+.calday{
+    font-size: 12px;
+    padding-top: 5px;
+}
+
+.caldate{
+    padding-top: 5px;
+}
+
+.caltime{
+    font-size: 12px;
+    padding-top: 10px;
+}
+
+.claendarcard{
+    display: flex;
+    justify-content: space-between;
+    font-size: 14px;
+    margin-top: 25px;
+}
+
+.card1{
+    background-color: #3734a9;
+    color: white;
+    width: 30%;
+    padding: 13px;
+    border-radius: 15px;
+    margin-left: 5px;
+}
+
+.card2{
+    background-color: #dde1f9;
+    width: 55%;
+    padding: 13px;
+    border-radius: 15px;
+}
+
+.calendarcardheading{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 5px;
+}

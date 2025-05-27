@@ -1,0 +1,110 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 0%;
+    border-radius: 10px;
+    /* padding-top: 5%; */
+}
+a{
+    text-decoration: none;
+}
+
+/* Left */
+
+.left{
+    /* 5 */
+    width: 15.48%;
+    max-width: 15.48%;
+    background-color: #f6faff;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 4%;
+    border-top-left-radius: 50px;
+}
+.logo{
+    font-size: 25px;
+}
+
+.health{
+    color: #70e4ea;
+}
+
+.care{
+    color: #3f3b59;
+}
+
+/* Mid */
+
+.mid{
+    /* 14 */
+    width: 43.34%;
+    /* max-width: 43.34%; */
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-top: 4%;
+    background-color: white;
+}
+
+.search-bar{
+    display: flex;
+    align-items: center;
+    border: 2px solid hsla(0, 14%, 93%, 0.742);
+    border-radius: 5px;
+    padding-left: 5px;
+}
+
+.search-icon{
+    padding-left: 5px;
+    white-space: nowrap;
+    margin-right: 5px;
+    color: #9da5b0;
+}
+
+.input{
+    flex: 1;
+    border: none;
+    outline: none;
+    width: 460px;
+    height: 35px;
+}
+
+.bell{
+    color: #3a2eab;
+    font-size: 20px;
+    /* border: none; */
+    /* background-color: #f0f0f0; */
+}
+
+/* Right */
+
+
+.right{
+    /* 13.3 */
+    background-color: #f6faff;
+    width: 41.18%;
+    max-width: 41.18%;
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 4%;
+    border-top-right-radius: 50px;
+}
+
+.user{
+    margin-right: 15px;
+    width: 37px;
+    height: 37px;
+    border-radius: 7px;
+    border: none;
+    background-color: #03deec;
+}
+
+.plus{
+    margin-right: 60px;
+    width: 37px;
+    height: 37px;
+    border-radius: 7px;
+    border: none;
+    background-color: #3535a8;
+    color: white;
+}

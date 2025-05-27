@@ -1,0 +1,7 @@
+.overview{
+    /* width: 100%; */
+    display: flex;
+    justify-content: space-between;
+    height: 65%;
+    /* align-items: center; */
+}

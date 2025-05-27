@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "url": "/assets/Lungs.png",
+        "part": "Lungs",
+        "Date": "26 Oct 2021",
+        "progress": 70,
+        "color": "#a35452"
+    },
+    {
+        "id": 1,
+        "url": "/assets/Tooth.jpg",
+        "part": "Teeth",
+        "Date": "26 Oct 2021",
+        "progress": 50,
+        "color": "#79cebd"
+    },
+    {
+        "id": 2,
+        "url": "/assets/Bone.png",
+        "part": "Bone",
+        "Date": "26 Oct 2021",
+        "progress": 25,
+        "color": "#f08268"
+    }
+
+]
